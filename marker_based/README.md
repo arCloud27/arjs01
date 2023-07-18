@@ -7,4 +7,4 @@
 * index3.html (globe simulation example)
 
 ## Credits
-* Map image in _index3.html_ by Abraham Ortelius - The Library of Congress, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=6872417](https://commons.wikimedia.org/w/index.php?curid=6872417)
+* Map image in _index3.html_ is from Abraham Ortelius - The Library of Congress, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=6872417](https://commons.wikimedia.org/w/index.php?curid=6872417)
