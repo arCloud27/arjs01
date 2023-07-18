@@ -1,5 +1,4 @@
 # Marker Based AR
-Under Construction!
 
 ## Options
 * index.html (example with 1 Hiro marker)
