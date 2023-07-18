@@ -2,6 +2,10 @@
 Under Construction!
 
 ## Options
-* index.html (example with 1 hiro marker)
+* index.html (example with 1 Hiro marker)
 * index1.html (example with 1 .patt marker)
 * index2.html (example with 2 .patt markers)
+* index3.html (globe simulation example)
+
+## Credits
+* Map image by Abraham Ortelius - The Library of Congress, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=6872417](https://commons.wikimedia.org/w/index.php?curid=6872417)
