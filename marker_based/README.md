@@ -2,6 +2,6 @@
 Under Construction!
 
 ## Options
-* index.html (with 1 hiro marker)
-* index1.html (with 1 .patt marker)
-* index2.html (coming soon -> multiple markers)
+* index.html (example with 1 hiro marker)
+* index1.html (example with 1 .patt marker)
+* index2.html (example with 2 .patt markers)
