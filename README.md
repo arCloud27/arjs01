@@ -14,4 +14,3 @@ Under construction
 * [https://ar-js-org.github.io/AR.js-Docs/](https://ar-js-org.github.io/AR.js-Docs/)
 * [https://github.com/aframevr/aframe#builds](https://github.com/aframevr/aframe#builds)
 * [https://www.jsdelivr.com](https://www.jsdelivr.com)
-* [medium.com/@noemi__biro](https://medium.com/@noemi__biro/exclusive-builds-of-tracking-image-based-tracking-ar-js-d92821cae83d) and [NFT Creator](https://carnaux.github.io/NFT-Marker-Creator/#/)
