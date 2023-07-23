@@ -9,3 +9,4 @@
 
 ## Credits
 * Map image in _index3.html_ is from Abraham Ortelius - The Library of Congress, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=6872417](https://commons.wikimedia.org/w/index.php?curid=6872417)
+* Inspired by [https://stemkoski.github.io/AR.js-examples/index.html](https://stemkoski.github.io/AR.js-examples/index.html) for [index4.html](index4.html)
