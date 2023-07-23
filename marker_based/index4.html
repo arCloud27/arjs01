@@ -1,0 +1,33 @@
+<!doctype HTML>
+<html>
+<link rel="icon" href="data:;base64,iVBORw0KGgo=">
+<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@a5a8449/dist/aframe-particle-system-component.js"></script>
+<body style="margin: 0px; overflow: hidden;">
+
+<a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: false;">
+    
+    <a-marker  preset="hiro">
+        <a-entity 
+            position="0 0 0" 
+            particle-system="
+                texture: ../assets/star32_32.png;
+                color: #f50521, #FFF000; 
+                size: 1, 0;
+                velocityValue: 0.001 0.001 0.001;
+                velocitySpread: 0.5 0 0.5; 
+                accelerationValue: 0.001 0.001 0.001;
+                accelerationSpread: 0.001 0.001 0.001;
+                rotationAngle: 0; 
+                blending: 1;
+                particleCount: 50;
+                maxAge: 5; ">
+        </a-entity>
+    </a-marker>
+    
+    <a-entity camera></a-entity>
+    
+</a-scene>
+</body>
+</html>
