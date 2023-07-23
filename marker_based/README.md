@@ -5,7 +5,7 @@
 * [index1.html](index1.html) (example with 1 .patt marker)
 * [index2.html](index2.html) (example with 2 .patt markers)
 * [index3.html](index3.html) (globe simulation example)
-* [index4.html](index4.html) (stars example with 1 Hiro marker)
+* [index4.html](index4.html) (stars: example with 1 Hiro marker)
 
 ## Credits
 * Inspired by [stemkoski](https://stemkoski.github.io/AR.js-examples/index.html)
