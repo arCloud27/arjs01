@@ -10,4 +10,6 @@
 * [index6.html](index6.html) (example with a gltf -3D- moving asset)
 
 ## Credits
+* [https://stackoverflow.com](https://stackoverflow.com)
 * [stemkoski](https://stemkoski.github.io/AR.js-examples/index.html)
+* [And many others!]()
