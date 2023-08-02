@@ -12,4 +12,4 @@
 ## Credits
 * [stackoverflow](https://stackoverflow.com)
 * [stemkoski](https://stemkoski.github.io/AR.js-examples/index.html)
-* [And many others!]()
+* [and many others!]()
