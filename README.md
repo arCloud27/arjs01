@@ -15,3 +15,4 @@ Under construction
 * [https://github.com/aframevr/aframe#builds](https://github.com/aframevr/aframe#builds)
 * [https://www.jsdelivr.com](https://www.jsdelivr.com)
 * [Using 3D models with AR.js and A-Frame](https://medium.com/@akashkuttappa/using-3d-models-with-ar-js-and-a-frame-84d462efe498)
+* [glTF Sample Models](https://github.com/KhronosGroup/glTF-Sample-Models)
