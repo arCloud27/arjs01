@@ -3,14 +3,18 @@
 <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
 
 <body style='margin : 0px; overflow: hidden;'>
-  <a-scene embedded artoolkit='sourceType: webcam;'>
+  <a-scene embedded arjs='sourceType: webcam;'>
  
     <a-marker preset='hiro'>
       <!--Adding a glTF 2.0 model to your scene-->
-      <a-entity gltf-model-next="src: url(./Fox/glTF/Fox.gltf);"></a-entity>
+      <a-entity
+      gltf-model-next="src: url(./Fox/glTF/Fox.gltf);"
+      >
+      </a-entity>
       
     </a-marker>
 
     <a-entity camera></a-entity>
   </a-scene>
 </body>
+       
