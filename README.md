@@ -6,7 +6,7 @@ Under construction
 * You can find more details and options about local HTTP servers **[here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server)**.
 
 ## Useful tips
-For Git LF EOL issues: <br>
+For **git** LF EOL issues: <br>
  `$ git config core.eol lf` <br>
  `$ git config core.autocrlf input`
 
