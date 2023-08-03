@@ -7,7 +7,7 @@ Under construction
 
 ## Useful tips
 For Git LF EOL problems:
- `$ git config core.eol lf`
+ `$ git config core.eol lf` <br>
  `$ git config core.autocrlf input`
 
 ## References & links to useful tools, examples, tips, and other information
