@@ -8,7 +8,7 @@
 * [index4.html](index4.html) (stars: example with 1 Hiro marker)
 * [index5.html](index5.html) (example with a gltf -3D- asset)
 * [index6.html](index6.html) (example with a gltf -3D- moving asset)
-* [index7.html](index6.html) (example with a rotated png image)
+* [index7.html](index7.html) (example with a rotated png image)
 
 ## Credits
 * [stackoverflow](https://stackoverflow.com)
