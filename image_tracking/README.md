@@ -7,8 +7,9 @@ Under Construction!
 
 
 ## Credits
-* "Starry Night" by Vincent van Gogh - bgEuwDxel93-Pg — Google Arts &amp; Culture, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=25498286]
-* "Gold Star" ([https://skfb.ly/6woS9](https://skfb.ly/6woS9)) by Oleksandr Pelypenko is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* [https://ar-js-org.github.io/AR.js-Docs/image-tracking/](https://ar-js-org.github.io/AR.js-Docs/image-tracking/)
 
 * ## References & links to useful tools, examples, tips, and other information
 * [medium.com/@noemi__biro](https://medium.com/@noemi__biro/exclusive-builds-of-tracking-image-based-tracking-ar-js-d92821cae83d) and [NFT Creator](https://carnaux.github.io/NFT-Marker-Creator/#/)
+[Image Descriptors - Web version](https://carnaux.github.io/NFT-Marker-Creator/#/)
+[https://github.com/AR-js-org/AR.js](https://github.com/AR-js-org/AR.js)
