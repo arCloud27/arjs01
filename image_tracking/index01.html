@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge" /> -->
     <title>Image based tracking AR.js demo</title>
     <!-- import aframe and then ar.js with image tracking / location based features -->
-    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1.3.0/dist/aframe-master.min.js"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
 
     <!-- style for the loader -->
@@ -40,9 +40,9 @@
     <!-- a-frame scene -->
     <a-scene
       vr-mode-ui="enabled: false;"
-      renderer="logarithmicDepthBuffer: true;"
+      renderer="logarithmicDepthBuffer: true; precision: medium;"
       embedded
-      arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;">
+      arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;">
       <!-- a-nft is the anchor that defines an Image Tracking entity -->
       <!-- on 'url' use the path to the Image Descriptors created before. -->
       <!-- the path should end with the name without the extension e.g. if file is trex.fset' the path should end with trex -->
@@ -55,9 +55,9 @@
         smoothThreshold="5">
           <!-- as a child of the a-nft entity, you can define the content to show. here's a GLTF model entity -->
           <a-entity
-            geometry="primitive: box; width: 1; depth: 1; height: 1" 
-            position="0 0 0" 
-            material="color: #3277a8">
+          material="color: blue" 
+          geometry="primitive: box"
+          scale="1 1 1">
           </a-entity>
       </a-nft>
       <!-- static camera that moves according to the device movemenents -->
