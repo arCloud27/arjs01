@@ -1,4 +1,5 @@
-## Under construction
+## For the ASSL 2024
+Follow the link: [https://arcloud27.github.io/arjs01/marker_based/assl2024/](https://arcloud27.github.io/arjs01/marker_based/assl2024/)
 
 ## Materials
 * [Telescope](https://sketchfab.com/3d-models/telescope-46a5e7701e8641b9968ee1cb278cb524)
